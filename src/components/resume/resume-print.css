@@ -23,7 +23,7 @@ p {
 }
 
 .online {
-	display: none
+	display: flex;
 }
 
 #cv {
@@ -246,6 +246,14 @@ section:last-child {
     #cv {
         width: 100%;
     }
+
+		.online {
+			display: none;
+		}
+
+		.printView {
+			display: list-item;
+		}
 }
 
 @-webkit-keyframes reset {

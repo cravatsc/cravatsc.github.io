@@ -33,7 +33,7 @@ const Resume: React.FC = () => {
                 <li className="printView">github.com/cravatsc</li>
                 {/* need to adjust so the urls show in print preview */}
                 <li className="printView">www.linkedin.com/in/craig-cravath/</li>
-                <li className="online"><a href="https://github.com/cravatsc"><img src="./github.png" alt="github" /></a>
+                <li className="online"><a href="https://github.com/cravatsc"><img src="github.png" alt="github" /></a>
                   <a href="https://www.linkedin.com/in/craig-cravath/"><img src="linkedin.png" alt="linkedin" /></a></li>
               </ul>
             </div>
